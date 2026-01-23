@@ -7,7 +7,7 @@
 ## ✅ LEVEL 1: Python Basics (Must-Know)
 
 ### Python Fundamentals
-- [ ] What is Python (features, use cases)
+- [x] What is Python (features, use cases)
 - [ ] Python execution model (source → bytecode → PVM)
 - [ ] Interpreted vs compiled (CPython, PyPy, JIT)
 - [ ] Dynamic typing
