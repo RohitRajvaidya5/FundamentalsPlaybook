@@ -1,4 +1,4 @@
 # Programming Language : Python
 ---
 
-[Syllabus](../Syllabus/Syllabus.md)
+[Syllabus](Programming Languages/Python Language/Syllabus/Syllabus.md)
