@@ -10,7 +10,7 @@
 - [x] What is Python (features, use cases)
 - [x] Python execution model (source → bytecode → PVM)
 - [x] Interpreted vs compiled (CPython, PyPy, JIT)
-- [ ] Dynamic typing
+- [x] Dynamic typing
 - [ ] Indentation and code blocks
 - [ ] Keywords and identifiers
 - [ ] Comments (single-line, multi-line)
