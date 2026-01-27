@@ -8,8 +8,8 @@
 
 ### Python Fundamentals
 - [x] What is Python (features, use cases)
-- [ ] Python execution model (source → bytecode → PVM)
-- [ ] Interpreted vs compiled (CPython, PyPy, JIT)
+- [x] Python execution model (source → bytecode → PVM)
+- [x] Interpreted vs compiled (CPython, PyPy, JIT)
 - [ ] Dynamic typing
 - [ ] Indentation and code blocks
 - [ ] Keywords and identifiers
