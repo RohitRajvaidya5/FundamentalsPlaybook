@@ -8,7 +8,7 @@ Middleware is a layer in django that possesses requests before they reach the vi
 ## Infographics
 
 <p align="left">
-  <img src="/assets/Middleware.png" width="800" style="border-radius: 12px;" />
+  <img src="/assets/Middleware.png" width="800" />
 </p>
 
 
